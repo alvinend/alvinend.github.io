@@ -79,8 +79,13 @@ const Experience = () => {
                 <br />
               </li>
               <li>
-                <b>Computer Science/ Network</b> | 2018.04 - Now <br />
+                <b>Computer Science/ Network</b> | 2018.04 - 2021.03 <br />
                 Kyoto Computer Collage
+                <br />
+              </li>
+              <li>
+                <b>Master Program / Computer Network Management</b> | 2021.03 - Now <br />
+                Kyoto Information Graduate School
                 <br />
               </li>
             </UlStyled>
@@ -95,8 +100,44 @@ const Experience = () => {
                 <br />
               </li>
               <li>
-                <b>Intern Front Engineer</b> | 2019.11 - Now <br />
+                <b>Intern Front Engineer</b> | 2019.11 - 2020.06 <br />
                 Baseconnect
+                <br />
+              </li>
+              <li>
+                <b>Intern Full-Stack Engineer</b> | 2020.06 - Now <br />
+                Baseconnect
+                <br />
+              </li>
+            </UlStyled>
+          </ItemWrapper>
+          <ItemWrapper>
+            <Title>Certification</Title>
+            <UlStyled>
+              <li>
+                <b>Japanese Language Proficieny Test (JLPT) N1</b> | 2017.11
+                <br />
+                Test to evaluate and certify Japanese language proficiency for non-native speakers
+                <br />
+              </li>
+              <li>
+                <b>基本技術者試験</b> | 2018.06 <br />
+                Japan  National Examination: Basic Engineer Exam 
+                <br />
+              </li>
+              <li>
+                <b>AWS Certified Cloud Practitioner (CLF)</b> | 2021.02<br />
+                AWS Exam
+                <br />
+              </li>
+              <li>
+                <b>AWS Certified Developer - Associate (DVA)</b> | 2021.05<br />
+                AWS Exam
+                <br />
+              </li>
+              <li>
+                <b>AWS Certified Solutions Architect - Associate (SAA)</b> | 2021.06<br />
+                AWS Exam
                 <br />
               </li>
             </UlStyled>

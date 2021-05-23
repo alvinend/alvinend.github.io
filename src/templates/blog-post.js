@@ -1,10 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components/Content'
 import styled from 'styled-components'
 import colors from '../components/style/color'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
@@ -106,7 +105,7 @@ export const BlogPostTemplate = ({
   date,
   featuredimage
 }) => {
-  const PostContent = contentComponent || Content
+  // const PostContent = contentComponent || Content
 
   console.log(tags)
 

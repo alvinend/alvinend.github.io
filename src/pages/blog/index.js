@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import SectionHeader from '../../components/pages/SectionHeader'
 import PreviewCompatibleImage from '../../components/PreviewCompatibleImage'
 import styled from 'styled-components'
 import colors from '../../components/style/color'

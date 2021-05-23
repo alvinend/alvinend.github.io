@@ -18,7 +18,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/jumbotrona.jpg`}
         />
       </Helmet>
       <div className="font-sans overflow-x-hidden text-base">{children}</div>
